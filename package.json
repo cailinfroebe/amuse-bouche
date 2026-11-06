@@ -1,0 +1,19 @@
+{
+  "name": "amuse-bouche",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "npx vercel dev",
+    "build": "node scripts/check.mjs",
+    "test": "node tests/preferences.cjs && node tests/flavor.cjs && node --test tests/security.test.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "cheerio": "^1.1.2",
+    "ipaddr.js": "^2.2.0"
+  }
+}

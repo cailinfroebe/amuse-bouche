@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 460" fill="none">
+<defs><filter id="ink"><feTurbulence type="fractalNoise" baseFrequency=".045" numOctaves="3" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="1.8"/></filter><pattern id="stripe" width="22" height="22" patternUnits="userSpaceOnUse"><path fill="#e56b33" d="M0 0h10v22H0z"/></pattern></defs>
+<g filter="url(#ink)" stroke="#1e3548" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="m100 140 383-23 84 201-405 41-62-219Z" fill="#fff6db"/>
+<path d="m102 143 4 219m54-9 5 60m394-94 5 69m-460-25 57-10 406-35M106 362l-12 37m70 14-9-53m406 28-7-61" stroke="#bd4a30" stroke-width="5"/>
+<path d="m107 163 384-23m-368 75 386-25m-361 85 381-37m-360 74 378-38m-366-128 72 207m6-212 75 203m5-210 74 201m5-203 74 194" stroke="#e69a77" stroke-width="2"/>
+<ellipse cx="257" cy="213" rx="62" ry="37" fill="#fff5df"/><ellipse cx="257" cy="213" rx="48" ry="27"/>
+<path d="m233 207q29-30 49 0-29-14-45 10 30-9 38 7-30 8-40-6" stroke="#cf542e" stroke-width="5"/>
+<ellipse cx="433" cy="260" rx="62" ry="37" fill="#fff5df"/><ellipse cx="433" cy="260" rx="49" ry="26"/>
+<path d="m409 256 12-10 15 7-4 17-20-2zM441 244l15 5 5 14-16 8-10-12z" fill="#e88645" stroke="#b6472a"/>
+<path d="m415 247 12 9m-4 14 6-15m18-5 8 11"/>
+<path d="M350 134q-5-15 3-27l-2-23-10-13 1-35 19-2 3 35-6 12 2 23q21 31 7 57-4 7-17 6-18 0-16-15z" fill="#a0a16c"/><path d="m343 44 17-1m-22 74 27 1-1 24-28-1" fill="#e7b974"/>
+<path d="m155 199 9 35m-19-47 12 38m-19-38 11 39m-5-11 15-5 39 73M306 185l22 67m-23-67q15-5 16 12l6 21-11 3"/>
+<path d="m374 276-18 47m16-52 9-15 4 20-10 9m103-64 14-43m0 0q-12-9-4-23t16-2q9 16-7 24"/>
+<ellipse cx="196" cy="295" rx="26" ry="15" fill="#e9c54b"/><path d="M170 295q4 31 31 27 22-2 21-26m-42 0 6 10m14-13 5 13"/>
+<path d="m289 292-9 42m-12 1 26-2m-5-41q-26-7-17-32l43-3q8 27-26 35z" fill="#fff5df"/><path d="m274 276 39-3" stroke="#c55435" stroke-width="9"/>
+<path d="m380 173-7 36m-13 2 27-4m-7-34q-24-8-16-29l39-1q6 24-23 30" fill="#fff5df"/><path d="m367 159 32-1" stroke="#d89c40" stroke-width="8"/>
+<ellipse cx="491" cy="165" rx="29" ry="17" fill="#819368"/><path d="m469 161 17 12m7-20-3 18m-2-12 23 3"/>
+<path d="m40 56 4 25m-16-12 29-2m473 316 6 21m-16-9 25-4" stroke="#bd4a30"/>
+</g></svg>
